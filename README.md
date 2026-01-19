@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="téléchargement.gif" width="900" />
+  <img src="téléchargement.gif" width="100%" style="max-width:600px;" />
 </p>
 
 # e̷d̷ / e̷d̷y̷x̷e̷m̷
@@ -18,6 +18,6 @@ P̷r̷o̷g̷r̷e̷s̷s̷ o̷v̷e̷r̷ p̷e̷r̷f̷e̷c̷t̷i̷o̷n̷.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=edyxem&theme=dark&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edyxem&layout=compact&theme=dark&hide_border=true)
