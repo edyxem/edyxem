@@ -1,14 +1,15 @@
-![](téléchargement.gif)
+<p align="center">
+  <img src="téléchargement.gif" width="900" />
+</p>
 
+# e̷d̷ / e̷d̷y̷x̷e̷m̷
 
-# ed / edyxem
+C̷o̷d̷e̷  
+G̷o̷d̷  
+S̷t̷a̷n̷d̷  
 
-Code  
-God  
-Stand  
-
-Learning by building.  
-Progress over perfection.
+L̷e̷a̷r̷n̷i̷n̷g̷ b̷y̷ b̷u̷i̷l̷d̷i̷n̷g̷.  
+P̷r̷o̷g̷r̷e̷s̷s̷ o̷v̷e̷r̷ p̷e̷r̷f̷e̷c̷t̷i̷o̷n̷.
 
 ---
 
