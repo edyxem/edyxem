@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="téléchargement.gif" width="100%" style="max-width:600px;" />
+  <img src="téléchargement.gif" width="100%" style="max-width:300px;" />
 </p>
 
 # e̷d̷ / e̷d̷y̷x̷e̷m̷
