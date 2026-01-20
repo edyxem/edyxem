@@ -29,3 +29,6 @@ P̷r̷o̷g̷r̷e̷s̷s̷ o̷v̷e̷r̷ p̷e̷r̷f̷e̷c̷t̷i̷o̷n̷.
 ✉️ : emmanueltossou75@gmail.com
 
 📱: +225 01-52-32-62-33
+
+
+btw i'm a python and react dev
