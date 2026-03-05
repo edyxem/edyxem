@@ -57,9 +57,3 @@ Consistency over motivation.
 
 ✉️ emmanueltossou75@gmail.com  
 📱 +225 01-52-32-62-33  
-
----
-
-<p align="center">
-  <img src="hacking watch dogs GIF.gif" width="600px"/>
-</p>
