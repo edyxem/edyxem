@@ -15,15 +15,13 @@ P̷r̷o̷g̷r̷e̷s̷s̷ o̷v̷e̷r̷ p̷e̷r̷f̷e̷c̷t̷i̷o̷n̷.
 
 ---
 
+<p align="center">
+  <img src="hacking watch dogs GIF.gif" />
+</p>
 
-## My stats
+
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=dark&hide_border=true)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edyxem&layout=compact&theme=dark&hide_border=true)
 
 
 ## Contact me on
