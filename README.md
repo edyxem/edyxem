@@ -16,7 +16,7 @@ P̷r̷o̷g̷r̷e̷s̷s̷ o̷v̷e̷r̷ p̷e̷r̷f̷e̷c̷t̷i̷o̷n̷.
 ---
 
 <p align="center">
-  <img src="hacking watch dogs GIF.gif" />
+  <img src="hacking watch dogs GIF.gif" width="600px"/>
 </p>
 
 
