@@ -2,33 +2,64 @@
   <img src="téléchargement.gif" width="600px" />
 </p>
 
-# e̷d̷ / e̷d̷y̷x̷e̷m̷
+<h1 align="center">ed / edyxem</h1>
 
-W̷a̷k̷e̷
+<p align="center">
+  <strong>Build. Break. Understand. Repeat.</strong>
+</p>
 
-L̷e̷a̷r̷n̷
+---
 
-T̷r̷y̷  
+## About
 
-L̷e̷a̷r̷n̷i̷n̷g̷ b̷y̷ b̷u̷i̷l̷d̷i̷n̷g̷.  
-P̷r̷o̷g̷r̷e̷s̷s̷ o̷v̷e̷r̷ p̷e̷r̷f̷e̷c̷t̷i̷o̷n̷.
+Computer science student.  
+Python & React developer.  
+
+Focused on building real systems, not just demos.  
+I like understanding how things work under the hood — architecture, logic, performance.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,flutter,js,html,css,git,linux" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyxem&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=edyxem&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Philosophy
+
+Progress over perfection.  
+Clarity over complexity.  
+Consistency over motivation.
+
+---
+
+## Contact
+
+✉️ emmanueltossou75@gmail.com  
+📱 +225 01-52-32-62-33  
 
 ---
 
 <p align="center">
   <img src="hacking watch dogs GIF.gif" width="600px"/>
 </p>
-
-
----
-
-
-
-## Contact me on
----
-✉️ : emmanueltossou75@gmail.com
-
-📱: +225 01-52-32-62-33
-
-
-btw i'm a python and react dev
