@@ -15,7 +15,7 @@
 Computer science student.  
 Python & React developer.  
 
-Focused on building real systems, not just demos.  
+Focused on building.
 I like understanding how things work under the hood — architecture, logic, performance.
 
 ---
