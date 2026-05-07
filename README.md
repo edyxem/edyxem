@@ -26,14 +26,6 @@ I like understanding how things work under the hood — architecture, logic, per
   <img src="https://skillicons.dev/icons?i=python,react,flutter,js,html,css,git,linux" />
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyxem&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
@@ -57,3 +49,9 @@ Consistency over motivation.
 
 ✉️ emmanueltossou75@gmail.com  
 📱 +225 01-52-32-62-33  
+
+## Follow me on my X
+
+https://x.com/edem12x
+
+
