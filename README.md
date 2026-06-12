@@ -23,7 +23,7 @@ I like understanding how things work under the hood — architecture, logic, per
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,flutter,js,html,css,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,react,flutter,electron,js,html,css,git,vscode" />
 </p>
 
 
