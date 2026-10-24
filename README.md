@@ -1,6 +1,4 @@
- <h1 align="center">
-  <code>ed / edyxem</code>
-</h1>
+ <h1 align="center">ed / edyxem</h1>
 
 <p align="center">
   <samp>@independent dev</samp>
@@ -15,17 +13,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/edyxem">
-    <img src="https://img.shields.io/badge/GitHub-edyxem-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://x.com/edem12x">
-    <img src="https://img.shields.io/badge/X-edem12x-black?style=for-the-badge&logo=x" alt="X" />
-  </a>
+  <a href="https://github.com/edyxem"><img src="https://img.shields.io/badge/GitHub-edyxem-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://x.com/edem12x"><img src="https://img.shields.io/badge/X-edem12x-black?style=for-the-badge&logo=x" alt="X" /></a>
 </p>
 
 ---
 
-### `whoami`
+<h2>whoami</h2>
+<hr />
 
 ```python
 class Ed:
@@ -52,24 +47,27 @@ I work with Python, React, Flutter, and other tools depending on the problem. I'
 
 I don't just want to make things work. I want to understand *why* they work.
 
-### `tech_stack`
+<h2>tech_stack</h2>
+<hr />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,django,react,flutter,electron,js,html,css,git,vscode,mysql,postgres" alt="Tech stack" />
 </p>
 
-### `things_i_build`
+<h2>things_i_build</h2>
+<hr />
 
 - **Software & Apps** — Turning ideas into useful applications.
 - **AI & Automation** — Making software do more with less manual work.
 - **Side Projects** — Building things because curiosity won't leave me alone.
 - **Experiments** — Learning new tools, testing ideas, and occasionally creating new bugs.
 
-### `developer.exe`
+<h2 align="center">developer.exe</h2>
+<hr />
 
 <table>
   <tr>
-    <td valign="middle" width="60%">
+    <td align="center" valign="middle" width="60%">
       <pre>
 ┌─────────────────────────────────┐
 │ USER: edyxem                    │
@@ -92,7 +90,8 @@ I don't just want to make things work. I want to understand *why* they work.
   </tr>
 </table>
 
-### `my_philosophy`
+<h2>my_philosophy</h2>
+<hr />
 
 > Progress over perfection.  
 > Understanding over blindly copying.  
@@ -100,7 +99,8 @@ I don't just want to make things work. I want to understand *why* they work.
 
 Read the docs. Experiment. Break things. Debug. Learn. Repeat.
 
-### `activity.log`
+<h2>activity.log</h2>
+<hr />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
@@ -111,17 +111,19 @@ Read the docs. Experiment. Break things. Debug. Learn. Repeat.
   <img src="https://streak-stats.demolab.com?user=edyxem&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-### `contributions.exe`
+<h2>contributions.exe</h2>
+<hr />
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edyxem/edyxem/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edyxem/edyxem/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/edyxem/edyxem/output/github-snake.svg" width="100%" />
+    <img src="https://raw.githubusercontent.com/edyxem/edyxem/output/github-snake.svg" width="100%" alt="GitHub contribution snake" />
   </picture>
 </p>
 
-### `connect()`
+<h2>connect()</h2>
+<hr />
 
 <p align="center">
   <a href="mailto:emmanueltossou75@gmail.com">Email</a> •
@@ -131,6 +133,10 @@ Read the docs. Experiment. Break things. Debug. Learn. Repeat.
 
 <p align="center">
   <samp>print("I just wanna play video games and sleep. Unfortunately, I chose CS.")</samp>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edyxem&style=flat-square&color=7aa2f7&label=PROFILE+VISITORS" alt="Profile visitors" />
 </p>
 
 <p align="center">
