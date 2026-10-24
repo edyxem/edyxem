@@ -85,7 +85,7 @@ I don't just want to make things work. I want to understand *why* they work.
       </pre>
     </td>
     <td align="center" valign="middle" width="40%">
-      <img src="./tired-dev.gif" width="250" alt="Tired developer" />
+      <img src="./tired-sad.gif" width="250" alt="Tired developer" />
     </td>
   </tr>
 </table>
