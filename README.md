@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./silver-surfer.gif" width="100%" alt="Silver Surfer banner" />
+  <img src="./red-eyes-anime-girl.gif" width="100%" alt="Red-eyed anime girl GIF" />
 </p>
 
 <p align="center">
@@ -65,9 +65,9 @@ I don't just want to make things work. I want to understand *why* they work.
 <h2 align="center">developer.exe</h2>
 <hr />
 
-<table>
+<table align="center" border="0">
   <tr>
-    <td align="center" valign="middle" width="60%">
+    <td align="center" valign="middle">
       <pre>
 ┌─────────────────────────────────┐
 │ USER: edyxem                    │
@@ -84,8 +84,8 @@ I don't just want to make things work. I want to understand *why* they work.
 └─────────────────────────────────┘
       </pre>
     </td>
-    <td align="center" valign="middle" width="40%">
-      <img src="./tired-sad.gif" width="250" alt="Tired developer" />
+    <td align="center" valign="middle">
+      <img src="./tired-dev.gif" width="250" alt="Tired developer" />
     </td>
   </tr>
 </table>
