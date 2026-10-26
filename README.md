@@ -62,10 +62,10 @@ I don't just want to make things work. I want to understand *why* they work.
 - **Side Projects** — Building things because curiosity won't leave me alone.
 - **Experiments** — Learning new tools, testing ideas, and occasionally creating new bugs.
 
-<h2 align="center">developer.exe</h2>
+ <h2 align="center">developer.exe</h2>
 <hr />
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td align="center" valign="middle">
       <pre>
@@ -85,7 +85,12 @@ I don't just want to make things work. I want to understand *why* they work.
       </pre>
     </td>
     <td align="center" valign="middle">
-      <img src="./tired-sad.gif" width="250" alt="Tired developer" />
+      <img src="./tired-sad.gif" width="220" alt="Tired developer" />
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jimtaptiwhbiismufzggzqslri&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="280" alt="Spotify activity" />
+      </a>
     </td>
   </tr>
 </table>
@@ -109,12 +114,6 @@ Read the docs. Experiment. Break things. Debug. Learn. Repeat.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=edyxem&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jimtaptiwhbiismufzggzqslri&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
-  </a>
 </p>
 
 <h2>contributions.exe</h2>
