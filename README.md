@@ -111,6 +111,12 @@ Read the docs. Experiment. Break things. Debug. Learn. Repeat.
   <img src="https://streak-stats.demolab.com?user=edyxem&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jimtaptiwhbiismufzggzqslri&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify activity" />
+  </a>
+</p>
+
 <h2>contributions.exe</h2>
 <hr />
 
