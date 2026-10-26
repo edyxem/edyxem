@@ -88,7 +88,7 @@ I don't just want to make things work. I want to understand *why* they work.
       <img src="./tired-sad.gif" width="220" alt="Tired developer" />
     </td>
     <td align="center" valign="middle">
-  <h3>Listen right now</h3>
+  <h3>Listen right now 🎧🎧</h3>
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jimtaptiwhbiismufzggzqslri&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="280" alt="Spotify activity" />
   </a>
