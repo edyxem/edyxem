@@ -1,29 +1,45 @@
-# ed / edyxem
+<h1 align="center">ed / edyxem</h1>
 
 <p align="center">
-  <samp>independent developer · computer science student</samp>
+  <samp>@independent dev</samp>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=91A4BF&center=true&vCenter=true&width=470&lines=Wake.+Learn.+Try.+Repeat.;Building+things%2C+breaking+things.;Understanding+over+blindly+copying.;Just+wanna+game+and+sleep..." alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=450&lines=Wake.+Learn.+Try.+Repeat.;Building+things%2C+breaking+things.;Just+wanna+game+and+sleep..." alt="Animated tagline" />
 </p>
 
 <p align="center">
-  <img src="./red-eyes-anime-girl.gif" width="100%" alt="Red-eyed anime girl" />
+  <img src="./red-eyes-anime-girl.gif" width="100%" alt="Red-eyed anime girl GIF" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/edyxem"><img src="https://img.shields.io/badge/GitHub-edyxem-242C3B?style=flat-square&logo=github&logoColor=DCE3ED" /></a>
-  <a href="https://x.com/edem12x"><img src="https://img.shields.io/badge/X-edem12x-242C3B?style=flat-square&logo=x&logoColor=DCE3ED" /></a>
+  <a href="https://github.com/edyxem"><img src="https://img.shields.io/badge/GitHub-edyxem-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub" /></a>
+  <a href="https://x.com/edem12x"><img src="https://img.shields.io/badge/X-edem12x-1a1b26?style=for-the-badge&logo=x&logoColor=7aa2f7" alt="X" /></a>
 </p>
 
 ---
 
-## `01` / whoami
+<h2>whoami</h2>
+<hr />
 
-<p align="center">
-  <img src="./whoami.gif" width="100%" alt="Animated Python code typing" />
-</p>
+```python
+class Ed:
+    def __init__(self):
+        self.role = "Computer Science Student"
+        self.interests = [
+            "Software Engineering",
+            "Artificial Intelligence",
+            "Gaming & Geek Culture",
+            "Automation & Side Projects",
+        ]
+        self.motto = "Wake. Learn. Try. Repeat."
+
+    def current_status(self):
+        return "Turning ideas into working software."
+
+
+me = Ed()
+```
 
 I'm a computer science student who enjoys building things, breaking them, and figuring out why they broke in the first place.
 
@@ -31,26 +47,36 @@ I work with Python, React, Flutter, and other tools depending on the problem. I'
 
 I don't just want to make things work. I want to understand *why* they work.
 
-## `02` / tech_stack
+<h2>tech_stack</h2>
+<hr />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,django,react,flutter,electron,js,html,css,git,vscode,mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,django,react,flutter,electron,js,html,css,git,vscode,mysql,postgres,angular,ts,php,laravel" alt="Tech stack" />
 </p>
 
-## `03` / things_i_build
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-18-1a1b26?style=flat-square&logo=odoo&logoColor=bb9af7" alt="Odoo 18" />
+</p>
 
-| Area | Description |
-|:--|:--|
-| **Software & Apps** | Turning ideas into useful applications. |
-| **AI & Automation** | Making software do more with less manual work. |
-| **Side Projects** | Building things because curiosity won't leave me alone. |
-| **Experiments** | Learning tools, testing ideas, occasionally creating bugs. |
+<h2>things_i_build</h2>
+<hr />
 
-## `04` / developer.exe
+- **Software & Apps** — Turning ideas into useful applications.
+- **AI & Automation** — Making software do more with less manual work.
+- **Side Projects** — Building things because curiosity won't leave me alone.
+- **Experiments** — Learning new tools, testing ideas, and occasionally creating new bugs.
+
+<p align="center">
+  <a href="https://github.com/edyxem/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=edyxem&repo=REPO_1&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&hide_border=true" alt="REPO_1" /></a>
+  <a href="https://github.com/edyxem/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=edyxem&repo=REPO_2&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&hide_border=true" alt="REPO_2" /></a>
+</p>
+
+ <h2 align="center">developer.exe</h2>
+<hr />
 
 <table align="center">
   <tr>
-    <td valign="middle">
+    <td align="center" valign="middle">
       <pre>
 ┌─────────────────────────────────┐
 │ USER: edyxem                    │
@@ -62,27 +88,24 @@ I don't just want to make things work. I want to understand *why* they work.
 │ Sleep         [NOT FOUND]       │
 │ Bugs          [FEATURES?]       │
 ├─────────────────────────────────┤
-│ $ NEXT PLAN: Build something    │
-│   cool                          │
+│ $ NEXT: build something cool    │
 └─────────────────────────────────┘
       </pre>
     </td>
     <td align="center" valign="middle">
-      <img src="./tired-sad.gif" width="190" alt="Tired developer" />
+      <img src="./tired-sad.gif" width="220" alt="Tired developer" />
+    </td>
+    <td align="center" valign="middle">
+      <h3><samp>now_playing</samp></h3>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jimtaptiwhbiismufzggzqslri&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="280" alt="Spotify activity" />
+      </a>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <b>Listen right now</b>
-</p>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jimtaptiwhbiismufzggzqslri&cover_image=true&theme=compact&show_offline=false&background_color=161B26&interchange=false&profanity=false&hide_remaster=false" width="280" alt="Spotify activity" />
-  </a>
-</p>
-
-## `05` / my_philosophy
+<h2>my_philosophy</h2>
+<hr />
 
 > Progress over perfection.  
 > Understanding over blindly copying.  
@@ -90,32 +113,39 @@ I don't just want to make things work. I want to understand *why* they work.
 
 Read the docs. Experiment. Break things. Debug. Learn. Repeat.
 
-## `06` / activity.log
+<h2>activity.log</h2>
+<hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=161B26&title_color=91A4BF&icon_color=A6A4BD&text_color=C0CAF5" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyxem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=161B26&title_color=91A4BF&text_color=C0CAF5" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyxem&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&hide_border=true&langs_count=8" height="165" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edyxem&theme=tokyonight&hide_border=true&background=161B26&ring=91A4BF&fire=A6A4BD&currStreakLabel=91A4BF" />
+  <img src="https://streak-stats.demolab.com?user=edyxem&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7dcfff&dates=565f89" alt="GitHub contribution streak" />
 </p>
 
-## `07` / contributions.exe
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edyxem&theme=tokyo-night&hide_border=true&area=true&custom_title=commits.log" width="100%" alt="Contribution activity graph" />
+</p>
+
+<h2>contributions.exe</h2>
+<hr />
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edyxem/edyxem/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edyxem/edyxem/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/edyxem/edyxem/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+    <img src="https://raw.githubusercontent.com/edyxem/edyxem/output/github-snake.svg" width="100%" alt="GitHub contribution snake" />
   </picture>
 </p>
 
-## `08` / connect()
+<h2>connect()</h2>
+<hr />
 
 <p align="center">
-  <a href="mailto:emmanueltossou75@gmail.com">Email</a> ·
-  <a href="https://x.com/edem12x">X</a> ·
+  <a href="mailto:emmanueltossou75@gmail.com">Email</a> •
+  <a href="https://x.com/edem12x">X</a> •
   <a href="https://github.com/edyxem">GitHub</a>
 </p>
 
@@ -124,7 +154,11 @@ Read the docs. Experiment. Break things. Debug. Learn. Repeat.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edyxem&style=flat-square&color=627A9D&label=PROFILE+VISITORS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1500&color=565F89&center=true&vCenter=true&width=380&repeat=true&lines=%24+sudo+sleep;sudo%3A+permission+denied;%24+_" alt="sudo sleep" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edyxem&style=flat-square&color=7aa2f7&label=PROFILE+VISITORS&labelColor=1a1b26" alt="Profile visitors" />
 </p>
 
 <p align="center">
