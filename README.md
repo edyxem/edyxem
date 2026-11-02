@@ -41,10 +41,6 @@ I don't just want to make things work. I want to understand *why* they work.
   <img src="https://skillicons.dev/icons?i=python,c,django,react,flutter,electron,js,html,css,git,vscode,mysql,postgres" alt="Tech stack" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Odoo-18-1a1b26?style=flat-square&logo=odoo&logoColor=bb9af7" alt="Odoo 18" />
-</p>
-
 <h2>things_i_build</h2>
 <hr />
 
