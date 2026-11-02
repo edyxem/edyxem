@@ -1,4 +1,6 @@
-<h1 align="center">ed / edyxem</h1>
+<h1 align="center">
+  <img src="./name-glitch.svg" height="90" alt="ed / edyxem" />
+</h1>
 
 <p align="center">
   <samp>@independent dev</samp>
@@ -22,24 +24,9 @@
 <h2>whoami</h2>
 <hr />
 
-```python
-class Ed:
-    def __init__(self):
-        self.role = "Computer Science Student"
-        self.interests = [
-            "Software Engineering",
-            "Artificial Intelligence",
-            "Gaming & Geek Culture",
-            "Automation & Side Projects",
-        ]
-        self.motto = "Wake. Learn. Try. Repeat."
-
-    def current_status(self):
-        return "Turning ideas into working software."
-
-
-me = Ed()
-```
+<p align="center">
+  <img src="./whoami.svg" width="520" alt="class Ed — whoami" />
+</p>
 
 I'm a computer science student who enjoys building things, breaking them, and figuring out why they broke in the first place.
 
