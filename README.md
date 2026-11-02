@@ -38,7 +38,7 @@ I don't just want to make things work. I want to understand *why* they work.
 <hr />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,django,react,flutter,electron,js,html,css,git,vscode,mysql,postgres,angular,ts,php,laravel" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,django,react,flutter,electron,js,html,css,git,vscode,mysql,postgres" alt="Tech stack" />
 </p>
 
 <p align="center">
