@@ -1,8 +1,4 @@
-<!-- ================= HEADER ================= -->
-
-<p align="center">
-  <img src="./ed-glitch.gif" width="420" alt="ed / edyxem glitch animation" />
-</p>
+# ed / edyxem
 
 <p align="center">
   <samp>independent developer · computer science student</samp>
@@ -17,86 +13,44 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/edyxem">
-    <img src="https://img.shields.io/badge/GitHub-edyxem-242C3B?style=flat-square&logo=github&logoColor=DCE3ED" />
-  </a>
-  <a href="https://x.com/edem12x">
-    <img src="https://img.shields.io/badge/X-edem12x-242C3B?style=flat-square&logo=x&logoColor=DCE3ED" />
-  </a>
+  <a href="https://github.com/edyxem"><img src="https://img.shields.io/badge/GitHub-edyxem-242C3B?style=flat-square&logo=github&logoColor=DCE3ED" /></a>
+  <a href="https://x.com/edem12x"><img src="https://img.shields.io/badge/X-edem12x-242C3B?style=flat-square&logo=x&logoColor=DCE3ED" /></a>
 </p>
 
 ---
 
-<!-- ================= WHOAMI ================= -->
-
-<h2 align="center">01 / whoami</h2>
-<hr />
+## `01` / whoami
 
 <p align="center">
   <img src="./whoami.gif" width="100%" alt="Animated Python code typing" />
 </p>
 
-<p align="center">
-  I'm a computer science student who enjoys building things, breaking them, and figuring out why they broke in the first place.
-</p>
+I'm a computer science student who enjoys building things, breaking them, and figuring out why they broke in the first place.
+
+I work with Python, React, Flutter, and other tools depending on the problem. I'm interested in AI, automation, software architecture, and understanding what happens under the hood.
+
+I don't just want to make things work. I want to understand *why* they work.
+
+## `02` / tech_stack
 
 <p align="center">
-  I work with Python, React, Flutter, and other tools depending on the problem. I'm interested in AI, automation, software architecture, and understanding what happens under the hood.
+  <img src="https://skillicons.dev/icons?i=python,c,django,react,flutter,electron,js,html,css,git,vscode,mysql,postgres&theme=dark" />
 </p>
 
-<p align="center">
-  I don't just want to make things work. I want to understand <i>why</i> they work.
-</p>
+## `03` / things_i_build
 
-<!-- ================= TECH STACK ================= -->
+| Area | Description |
+|:--|:--|
+| **Software & Apps** | Turning ideas into useful applications. |
+| **AI & Automation** | Making software do more with less manual work. |
+| **Side Projects** | Building things because curiosity won't leave me alone. |
+| **Experiments** | Learning tools, testing ideas, occasionally creating bugs. |
 
-<h2 align="center">02 / tech_stack</h2>
-<hr />
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,django,react,flutter,electron,js,html,css,git,vscode,mysql,postgres&theme=dark" alt="Tech stack" />
-</p>
-
-<!-- ================= PROJECTS ================= -->
-
-<h2 align="center">03 / things_i_build</h2>
-<hr />
+## `04` / developer.exe
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <b>Software & Apps</b>
-      <br />
-      Turning ideas into useful applications.
-    </td>
-    <td align="center" width="50%">
-      <b>AI & Automation</b>
-      <br />
-      Making software do more with less manual work.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Side Projects</b>
-      <br />
-      Building things because curiosity won't leave me alone.
-    </td>
-    <td align="center">
-      <b>Experiments</b>
-      <br />
-      Learning tools, testing ideas, and occasionally creating bugs.
-    </td>
-  </tr>
-</table>
-
-<!-- ================= DEVELOPER.EXE ================= -->
-
-<h2 align="center">04 / developer.exe</h2>
-<hr />
-
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
+    <td valign="middle">
       <pre>
 ┌─────────────────────────────────┐
 │ USER: edyxem                    │
@@ -122,48 +76,32 @@
 <p align="center">
   <b>Listen right now</b>
 </p>
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jimtaptiwhbiismufzggzqslri&cover_image=true&theme=compact&show_offline=false&background_color=161B26&interchange=false&profanity=false&hide_remaster=false" width="280" alt="Spotify activity" />
   </a>
 </p>
 
-<!-- ================= PHILOSOPHY ================= -->
+## `05` / my_philosophy
 
-<h2 align="center">05 / my_philosophy</h2>
-<hr />
+> Progress over perfection.  
+> Understanding over blindly copying.  
+> Building over waiting for the perfect moment.
+
+Read the docs. Experiment. Break things. Debug. Learn. Repeat.
+
+## `06` / activity.log
 
 <p align="center">
-  <i>Progress over perfection.</i>
-  <br />
-  <i>Understanding over blindly copying.</i>
-  <br />
-  <i>Building over waiting for the perfect moment.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=161B26&title_color=91A4BF&icon_color=A6A4BD&text_color=C0CAF5" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyxem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=161B26&title_color=91A4BF&text_color=C0CAF5" height="155" />
 </p>
 
 <p align="center">
-  Read the docs. Experiment. Break things. Debug. Learn. Repeat.
+  <img src="https://streak-stats.demolab.com?user=edyxem&theme=tokyonight&hide_border=true&background=161B26&ring=91A4BF&fire=A6A4BD&currStreakLabel=91A4BF" />
 </p>
 
-<!-- ================= ACTIVITY ================= -->
-
-<h2 align="center">06 / activity.log</h2>
-<hr />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=161B26&title_color=91A4BF&icon_color=A6A4BD&text_color=C0CAF5" height="155" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyxem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=161B26&title_color=91A4BF&text_color=C0CAF5" height="155" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=edyxem&theme=tokyonight&hide_border=true&background=161B26&ring=91A4BF&fire=A6A4BD&currStreakLabel=91A4BF" alt="GitHub contribution streak" />
-</p>
-
-<!-- ================= CONTRIBUTIONS ================= -->
-
-<h2 align="center">07 / contributions.exe</h2>
-<hr />
+## `07` / contributions.exe
 
 <p align="center">
   <picture>
@@ -173,16 +111,11 @@
   </picture>
 </p>
 
-<!-- ================= CONTACT ================= -->
-
-<h2 align="center">08 / connect()</h2>
-<hr />
+## `08` / connect()
 
 <p align="center">
-  <a href="mailto:emmanueltossou75@gmail.com">Email</a>
-  ·
-  <a href="https://x.com/edem12x">X</a>
-  ·
+  <a href="mailto:emmanueltossou75@gmail.com">Email</a> ·
+  <a href="https://x.com/edem12x">X</a> ·
   <a href="https://github.com/edyxem">GitHub</a>
 </p>
 
@@ -191,7 +124,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edyxem&style=flat-square&color=627A9D&label=PROFILE+VISITORS" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=edyxem&style=flat-square&color=627A9D&label=PROFILE+VISITORS" />
 </p>
 
 <p align="center">
