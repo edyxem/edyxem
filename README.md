@@ -100,20 +100,13 @@ Read the docs. Experiment. Break things. Debug. Learn. Repeat.
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyxem&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&hide_border=true&langs_count=8" height="165" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edyxem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyxem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edyxem&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7dcfff&dates=565f89" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=edyxem&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edyxem&theme=tokyo-night&hide_border=true&area=true&custom_title=commits.log" width="100%" alt="Contribution activity graph" />
-</p>
-
-<h2>contributions.exe</h2>
-<hr />
 
 <p align="center">
   <picture>
