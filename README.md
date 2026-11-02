@@ -49,11 +49,6 @@ I don't just want to make things work. I want to understand *why* they work.
 - **Side Projects** — Building things because curiosity won't leave me alone.
 - **Experiments** — Learning new tools, testing ideas, and occasionally creating new bugs.
 
-<p align="center">
-  <a href="https://github.com/edyxem/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=edyxem&repo=REPO_1&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&hide_border=true" alt="REPO_1" /></a>
-  <a href="https://github.com/edyxem/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=edyxem&repo=REPO_2&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&hide_border=true" alt="REPO_2" /></a>
-</p>
-
  <h2 align="center">developer.exe</h2>
 <hr />
 
